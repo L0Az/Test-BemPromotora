@@ -27,7 +27,7 @@ ou
 
 # Mac/Linux
 ```
-venv/bin/activate
+source venv/bin/activate
 ```
 
 Separei um arquivo para ser rodado e instalar todas as bibliotecas
