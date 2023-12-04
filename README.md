@@ -11,41 +11,41 @@ Também é possível observar o projeto no link https://test-bempromotora.diogos
 Para instalar as bibliotecas é recomendada a criação de um venv
 
 ```
-bash python -m venv venv
+python -m venv venv
 ```
 
 Após a criação é preciso acessar
 
 # Windows
 ```
-bash venv\Scripts\activate
+venv\Scripts\activate
 
 ou
 
-bash .\venv\Scripts\activate
+.\venv\Scripts\activate
 ```
 
 # Mac/Linux
 ```
-bash venv/bin/activate
+venv/bin/activate
 ```
 
 Separei um arquivo para ser rodado e instalar todas as bibliotecas
 
 ```
-bash pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 Após a instalação saia do venv
 
 ```
-bash deactivate
+deactivate
 ```
 
 # Inicie o Projeto com o comando
 
 ```
-bash flask run
+flask run
 ```
 
 O projeto será aberto em na url http://127.0.0.1:5000/.
