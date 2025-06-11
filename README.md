@@ -4,7 +4,7 @@ Como os arquivos são pesados, coloquei em um Zip no Drive https://drive.google.
 
 Também é possível observar o projeto no link https://test-bempromotora.diogosansonove.website/
 
-# OBS: O projeto irá demorar para rodar da primeira vez, pois estará inserindo os arquivos csv em um arquivo .DB
+# OBS: O projeto irá demorar para rodar na primeira vez, pois estará inserindo os arquivos csv em um arquivo .DB
 
 # Projeto montado com Python na versão 3.10
 
